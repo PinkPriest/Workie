@@ -3,14 +3,18 @@
 Версия Python - **Python 3.11**
 
 Используемые модули:
-* [os](https://docs.python.org/3/library/os.html)
-* [playsound 1.3.0](https://pypi.org/project/playsound/)
-* [random](https://docs.python.org/3/library/random.html)
-* [speech_recognition 3.10.1](https://pypi.org/project/SpeechRecognition/)
+* [Poetry 1.8.3](https://python-poetry.org/docs/)
+* [Docker 26.1.1](https://docs.docker.com)
+* [Django 5.0.6](https://docs.djangoproject.com/en/5.0/)
+* [DjangoRestFramework 3.15.1](https://www.django-rest-framework.org)
+* [Pillow 10.3.0](https://pillow.readthedocs.io/en/stable/)
+* [Psycopg2 2.9.9](https://www.psycopg.org/docs/)
+* [Djoser 2.2.3](https://djoser.readthedocs.io/en/latest/)
+* [Djangorestframework-simplejwt 5.3.1](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/)
 
 
 Учебные материалы:
-* [youtube](https://www.youtube.com/watch?v=ZZVWae8E9K0&t=1s)
+* [youtube](https://www.youtube.com/@DjangoSchool/featured)
 
 
 
